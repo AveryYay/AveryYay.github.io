@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "Q88XC5ZRKW.Anidote.Oweo"
+        ],
+        "components": [
+          {
+            "/": "/oweo-plaid-oauth*"
+          }
+        ]
+      }
+    ]
+  }
+}
